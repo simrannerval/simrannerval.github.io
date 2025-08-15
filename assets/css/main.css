@@ -8,7 +8,7 @@
 */
 
 html, body, div, span, applet, object,
-iframe, h1, h2, h3, h4, h5, h6, p, blockquote,
+iframe, h1, h2, h3, h4, h5, h6, h7, h8, h9, p, blockquote,
 pre, a, abbr, acronym, address, big, cite,
 code, del, dfn, em, img, ins, kbd, q, s, samp,
 small, strike, strong, sub, sup, tt, var, b,
@@ -119,7 +119,6 @@ input, select, textarea {
 			border-bottom-color: transparent;
 			color: #b477d5 !important;
 		}
-
 	strong, b {
 		color: #777;
 		font-weight: 700;
@@ -135,6 +134,26 @@ input, select, textarea {
 
 	h7 {
 		color: #D60270;
+		font-weight: 700;
+		line-height: 1em;
+		margin: 0 0 0.5625em 0;
+	}
+	.photo-credit {
+		padding-top: 10px;
+		color: #888;
+		font-size: 14px;
+		font-style: italic;
+	}
+
+	h8 {
+		color: #a26bbf;
+		font-weight: 700;
+		line-height: 1em;
+		margin: 0 0 0.5625em 0;
+	}
+
+	h9 {
+		color: #73d9de;
 		font-weight: 700;
 		line-height: 1em;
 		margin: 0 0 0.5625em 0;
